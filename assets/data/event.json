@@ -24,20 +24,20 @@
     "image": "sample4.jpg",
     "icon": "star",
     "banner": "stamp.png",
-    "description": "工学部を回ってお菓子をゲット！\n一緒に色々なところを見て回ってください！"
+    "description": "工学部を回ってお菓子をゲット！\n一緒に色々なところを\n見て回ってください！"
   },
   {
     "title": "学生相談室",
     "image": "sample4.jpg",
     "icon": "graduation-cap",
     "banner": "consul.png",
-    "description": "工学部の講義や研究ついて知りたいこと、\n聞きたいことなどドシドシ相談に来てください！"
+    "description": "工学部について知りたいこと、\n聞きたいことなど\nドシドシ相談に来てください！"
   },
   {
     "title": "写真展",
     "image": "sample4.jpg",
     "icon": "camera",
     "banner": "photo.png",
-    "description": "工学部写真部が色々な場所で撮った写真を展示しています。\n展示場所は、6号館と食堂です。"
+    "description": "RISE写真部が\n色々な場所で撮った写真を\n展示しています。\n展示場所:6号館3階6306教室、食堂"
   }
 ]
